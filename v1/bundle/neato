@@ -1,0 +1,12 @@
+metadata:
+  name: "Decent Themes"
+  author: "dhtdht020"
+  description: "That's not a good theme, but I can't even compare it to the actual trash the rest are!"
+  host: "themes"
+  order: "Custom"
+  
+applications:
+  - "discord-theme"
+  - "HBCtheme_Material_Dark"
+  - "HBCtheme_Material_Light"
+  - "Wii_theme"

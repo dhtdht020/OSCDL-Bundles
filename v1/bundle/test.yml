@@ -1,0 +1,19 @@
+metadata:
+  name: "Cool Icons"
+  author: "dhtdht020"
+  descrption: "That's a cool icon ngl. All these color and no useless background?! Hail transparency!"
+  order: "Custom"
+  
+applications:
+  - "Achtung_Wii_Kurve"
+  - "calibrator"
+  - "CheckRegion"
+  - "DmpMiNND"
+  - "dosbox-wii"
+  - "frodo"
+  - "hatari"
+  - "HomebrewFilter"
+  - "InspectMii"
+  - "ios58-installer"
+  - "mplayer-ce"
+  - "neopop"

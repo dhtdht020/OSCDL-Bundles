@@ -1,0 +1,9 @@
+metadata:
+  name: "Shameful Metadata"
+  author: "dhtdht020"
+  description: ""We don't care" they said, "We will provide a corrupt meta XML!". Also known as #hbbIDgang!"
+  host: "primary"
+  order: "Custom"
+  
+applications:
+  - "usbloader_gx"

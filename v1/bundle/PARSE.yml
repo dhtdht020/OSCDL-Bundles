@@ -1,0 +1,10 @@
+metadata:
+  name: "Things devs expect me to parse"
+  author: "dhtdht020"
+  description: "There's no need for documentation. I know the most common date format is MM/YYYY-SS-NN-YYYY-Hh"
+  host: "primary"
+  order: "Custom"
+  
+applications:
+  - "BBPRO"
+  - "cert_sys_extractor"

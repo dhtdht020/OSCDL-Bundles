@@ -1,7 +1,7 @@
 metadata:
   name: "Things devs expect me to parse"
   author: "dhtdht020"
-  description: "There's no need for documentation. I know the most common date format is MM/YYYY-SS-NN-YYYY-Hh"
+  description: "I don't need documentation. I know the most common format is MM/YYYY-SS-NN-YYYY-Hh"
   host: "primary"
   order: "Custom"
   

@@ -1,2 +1,2 @@
-# OSCDL-Bundles
-Bundles for Open Shop Channel
+# OSCDL-Collections
+Collections for Open Shop Channel

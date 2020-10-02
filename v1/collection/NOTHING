@@ -1,0 +1,8 @@
+metadata:
+  name: "Nothing"
+  author: "dhtdht020"
+  description: "I believe we are out of homebrew apps. Lemme check inventory"
+  host: "primary"
+  order: "Custom"
+  
+applications:

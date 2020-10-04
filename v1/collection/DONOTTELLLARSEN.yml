@@ -1,0 +1,9 @@
+metadata:
+  name: "Do not tell larsen"
+  author: "dhtdht020"
+  description: "Shh. He doesn't have to know"
+  host: "primary"
+  order: "Custom"
+  
+applications:
+  - "wiibricker_9000"
